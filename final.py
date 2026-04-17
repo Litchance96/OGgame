@@ -264,8 +264,8 @@ def update():
 
 
 def acceleration():
-    ball_speed[0] = 6.5
-    ball_speed[1] = 6.5
+    ball_speed[0] = 7
+    ball_speed[1] = 7
 
 def bruit_blue():
     sounds.brickblue.play()   
